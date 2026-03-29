@@ -1,2 +1,18 @@
-# digital-literacy-cli
-This project is a custom-engineered, fully terminal-based Python application developed to fulfill the five core modules of the Digital Literacy (NGMC). To strictly adhere to the evaluation guidelines requiring command-line executability without GUI-based setups, this digital was designed as an interactive Command Line Interface (CLI) tool.
+# Digital Literacy Portfolio (CLI Edition)
+
+A minimalist, terminal-based Python application developed to fulfill the 5 modules of the Digital Literacy Non-Graded Mandatory Course (NGMC). 
+
+This project was intentionally engineered as a Command Line Interface (CLI) application to strictly adhere to the project executability guidelines, avoiding any GUI-based setup or browser dependencies.
+
+---
+
+## ⚙️ Prerequisites & Environment
+This application is built using standard Python and does not require any external pip dependencies, ensuring a zero-friction evaluation process.
+* **Requirement:** Python 3.6 or higher.
+* **OS:** Windows, macOS, or Linux (Terminal access required).
+
+---
+
+## 🚀 Setup & Execution Instructions
+
+
